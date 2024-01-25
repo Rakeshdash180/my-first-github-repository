@@ -1,3 +1,5 @@
 Blender
 Toy Car
 Glue
+Jacket
+Chair
