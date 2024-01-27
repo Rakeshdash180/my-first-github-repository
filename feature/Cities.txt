@@ -4,3 +4,6 @@ Kathmandu
 Delhi
 Mumbai
 Pokhara
+Capetown
+Los angles
+Sydney
