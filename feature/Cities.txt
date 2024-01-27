@@ -1,3 +1,6 @@
 New York
 London
 Kathmandu
+Delhi
+Mumbai
+Pokhara
