@@ -4,4 +4,5 @@ This file is modified locally.
 
 Changing another-file.txt locally.
 
-Adding this line in the GitHub
+Adding this line in the GitHub.
+This file was changed locally in vs code.
