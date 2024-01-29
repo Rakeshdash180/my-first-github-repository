@@ -5,3 +5,5 @@ Delhi
 Mumbai
 Pokhara
 Sydney
+Bali
+Tokyo
