@@ -1,8 +1,11 @@
-Just another-file.txt is created in the feature-1 branch.
-
+This line is replaced in feature-2 branch
 This file is modified locally.
 
 Changing another-file.txt locally.
 
 Adding this line in the GitHub.
 This file was changed locally in vs code.
+
+New line added in the feature-2 branch
+
+Another modification in this file in the feature-2 branch
