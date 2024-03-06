@@ -5,3 +5,6 @@ Jacket
 Chair
 Pencil
 Watch
+Car
+Bus 
+Mango
